@@ -1,1 +1,2 @@
-<img width="1920" height="1080" alt="videoplayer1" src="https://github.com/user-attachments/assets/063f85f4-d185-4eb4-baa1-df44d5a05978" />
+<img width="1366" height="768" alt="player-qt" src="https://github.com/user-attachments/assets/749683c7-2688-4cc4-99f2-97e216ebf359" />
+
